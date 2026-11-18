@@ -1,16 +1,86 @@
-# React + Vite
+# João Victor Oliveira — Portfólio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Portfólio pessoal desenvolvido para apresentar minha trajetória na área de desenvolvimento, minhas habilidades e projetos práticos.
 
-Currently, two official plugins are available:
+O projeto foi desenvolvido utilizando React, Vite e CSS, com foco em design moderno, responsividade e experiência do usuário.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Tecnologias utilizadas
 
-## React Compiler
+- React
+- JavaScript
+- Vite
+- CSS3
+- Lucide React
+- HTML5
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 💻 Funcionalidades
 
-## Expanding the Oxlint configuration
+- Apresentação pessoal.
+- Seção Sobre Mim.
+- Exibição de projetos desenvolvidos.
+- Seção de habilidades técnicas.
+- Links para repositórios do GitHub.
+- Links de contato e redes profissionais.
+- Layout responsivo para desktop e dispositivos móveis.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## 📂 Projetos apresentados
+
+### 1. Micro-frontends de Pedidos
+
+Sistema desenvolvido com Next.js e Module Federation, integrando diferentes aplicações em uma estrutura de micro-frontends.
+
+[Repositório no GitHub](https://github.com/joaovdasilvadev-oss/micro-frontends-pedidos-pronto)
+
+### 2. Cadastro de Clientes
+
+Aplicação de cadastro de clientes utilizando JavaScript e Fetch API para integração com uma API externa.
+
+[Repositório no GitHub](https://github.com/joaovdasilvadev-oss/cadastro-crudcrud-test)
+
+### 3. Diário de Bordo
+
+Aplicação web com recursos de Progressive Web App (PWA), incluindo Service Worker e funcionalidades de armazenamento em cache.
+
+[Repositório no GitHub](https://github.com/joaovdasilvadev-oss/diario-de-bordo-pwa)
+
+## ⚙️ Como executar o projeto
+
+Clone o repositório:
+
+```bash
+git clone URL_DO_REPOSITORIO
+```
+
+Entre na pasta:
+
+```bash
+cd portfolio-joao-victor
+```
+
+Instale as dependências:
+
+```bash
+npm install
+```
+
+Inicie o servidor de desenvolvimento:
+
+```bash
+npm run dev
+```
+
+Acesse o endereço disponibilizado pelo Vite no terminal.
+
+## 📱 Responsividade
+
+O projeto foi desenvolvido para funcionar em diferentes tamanhos de tela, incluindo computadores, tablets e smartphones.
+
+## 📬 Contato
+
+- **GitHub:** [joaovdasilvadev-oss](https://github.com/joaovdasilvadev-oss)
+- **LinkedIn:** [João Victor Oliveira](https://www.linkedin.com/in/jo%C3%A3o-victor-oliveira-94b824450/)
+- **E-mail:** joaovdasilva.dev@gmail.com
+
+---
+
+Desenvolvido por **João Victor Oliveira**.
