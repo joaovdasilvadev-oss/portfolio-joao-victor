@@ -13,6 +13,10 @@ O projeto foi desenvolvido utilizando React, Vite e CSS, com foco em design mode
 - Lucide React
 - HTML5
 
+## 🌐 Acesse o portfólio
+
+[Visualizar portfólio online](https://portfolio-joao-victor-lake.vercel.app)
+
 ## 💻 Funcionalidades
 
 - Apresentação pessoal.
@@ -48,7 +52,7 @@ Aplicação web com recursos de Progressive Web App (PWA), incluindo Service Wor
 Clone o repositório:
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/joaovdasilvadev-oss/portfolio-joao-victor.git
 ```
 
 Entre na pasta:
